@@ -15,11 +15,11 @@ In this challenge, I will develop a simple profile card that includes a profile 
 
 To get a local copy up and running follow these simple example steps.
 
-Run in your terminal `git clone git@github.com:Mhdez221993/testimonial-card.git`
+Run in your terminal `git clone git@github.com:Mhdez221993/profile-card.git`
 
 ## Helpful links
 
-- [Flexbox: center horizontally and vertically](https://stackoverflow.com/questions/19026884/flexbox-center-horizontally-and-vertically)
+- [Tailwindcss: Styling with utility classes](https://tailwindcss.com/docs/styling-with-utility-classes)
 
 ## Author
 
@@ -33,7 +33,7 @@ Run in your terminal `git clone git@github.com:Mhdez221993/testimonial-card.git`
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Mhdez221993/testimonial-card/issues).
+Feel free to check the [issues page](https://github.com/Mhdez221993/profile-card/issues).
 
 ## Show your support
 
