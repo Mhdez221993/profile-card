@@ -17,16 +17,15 @@ body {
   box-sizing: border-box;
 }
 
-.credits {
-  color: #777;
-  position: fixed;
-  bottom: 24px;
-  left: 24px;
-  font-size: 11px;
-  text-align: center;
+.card-social-icons:hover {
+  background-color: rgba(210, 214, 219, 0.1);
 }
 
-.credits a {
-  color: #000;
-  font-weight: bold;
+.card-social-icons:focus {
+  border: 3px solid rgba(210, 214, 219, 0.5);
+}
+
+.card-social-icons:disabled {
+  background-color: white;
+  border: none;
 }
